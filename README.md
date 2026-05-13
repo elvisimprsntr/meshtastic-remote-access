@@ -5,7 +5,7 @@ SUMMARY
 
 April 2026, the Meshtastic iOS app added support for CarPlay.  This allows you to use Siri to dictate and send messages to public and private channels, and direct messages. 
 
-If you have an ESP32-S3 based Meshtastic device with WiFi capability, such as the Heltec V4, connected to your home network and a self hosted VPN, you can connect the Meshtastic iOS app remotely a Meshtastic device.
+If you have an ESP32-S3 based Meshtastic device with WiFi capability, such as the Heltec V4, connected to your home network and a self hosted VPN, you can connect the Meshtastic iOS app remotely to a Meshtastic device.
 
 There are no plans to add support for Android Auto that I am aware of, in spite of repeated requests to do so. 
 
@@ -27,7 +27,7 @@ REMOTE PREREQUISITES
 * Meshtastic decice with WiFi capability, such as the Heltec V4
 * Meshtastic devcice connected to your home WiFi with a static IP reservation in your router/firewall DHCP server
 * A self hosted VPN on your home network
-* Meshtastic app configured to manually connect to your node via is IP address.  
+* Meshtastic app configured to manually connect to your node via it's IP address.  
 
 ![manual](Manual.jpeg)
 
@@ -49,7 +49,7 @@ I personally run pfSense on a x86_64 Mini-PC, which supports static IP reservati
 
 SUGGESTED VPN
 
-You only need a single instance of Tailscale running on or behind your firewall if you enable advertise subnet routes.  That way you can access any IP based device on your home network remotely without opening ports on your firewall.  Tailscale has a free tier with up to 6 users, unlimited number of devices, will traverse any level of NAT, including CGNAT.
+You only need a single instance of Tailscale running on or behind your firewall, if you enable advertise subnet routes.  That way you can access any IP based device on your home network remotely without opening ports on your firewall.  Tailscale has a free tier with up to 6 users, unlimited number of devices, will traverse any level of NAT, including CGNAT.
 
 * [Tailscale MESH VPN](https://tailscale.com)
 
