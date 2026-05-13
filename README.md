@@ -5,7 +5,7 @@ SUMMARY
 
 April 2026, the Meshtastic iOS app added support for CarPlay.  This allows you to use Siri to dictate and send messages to public and private channels, and direct messages. 
 
-If you have an ESP32-S3 based Meshtastic device with WiFi capability, such as the Heltec V4, connected to your home network and a self hosted VPN, you can connect the Meshtastic iOS app remotely to a Meshtastic device.
+If you have an ESP32 based Meshtastic device with WiFi capability, such as the Heltec V4, connected to your home network and a self hosted VPN, you can connect the Meshtastic iOS app remotely to a Meshtastic device.
 
 There are no Meshtastic app plans to add support for Android Auto that I am aware of, in spite of repeated requests to do so. 
 
