@@ -24,8 +24,8 @@ CARPLAY PREREQUISITES
 
 REMOTE PREREQUISITES
 
-* Meshtastic decice with WiFi capability, such as the Heltec V4
-* Meshtastic devcice connected to your home WiFi with a static IP reservation in your router/firewall DHCP server
+* Meshtastic device with WiFi capability, such as the Heltec V4
+* Meshtastic device connected to your home WiFi with a static IP reservation in your router/firewall DHCP server
 * A self hosted VPN on your home network
 * Meshtastic app configured to manually connect to your node via it's IP address.  
 
