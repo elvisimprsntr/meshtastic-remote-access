@@ -7,7 +7,9 @@ April 2026, the Meshtastic iOS app added support for CarPlay.  This allows you t
 
 If you have an ESP32-S3 based Meshtastic device with WiFi capability, such as the Heltec V4, connected to your home network and a self hosted VPN, you can connect the Meshtastic iOS app remotely to a Meshtastic device.
 
-There are no plans to add support for Android Auto that I am aware of, in spite of repeated requests to do so. 
+There are no Meshtastic app plans to add support for Android Auto that I am aware of, in spite of repeated requests to do so. 
+
+Sadly, MeshCore currently does not have a TCP/IP stack, thus does not support WiFi, nor are their plans to add CarPlay and Android Auto support.  
 
 NOTE: I have been unable to get Siri to dictate messages using third party CarPlay screens, such as the CarPodGo T3, since it uses the OEM voice recognition instead of Siri
 
