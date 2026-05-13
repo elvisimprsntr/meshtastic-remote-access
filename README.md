@@ -1,2 +1,2 @@
 # meshtastic-remote-access
-Meshtastic VPN Access and Control from CarPlay
+Meshtastic CarPlay and VPN Remote Access
