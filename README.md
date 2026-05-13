@@ -9,7 +9,7 @@ If you have an ESP32-S3 based Meshtastic device with WiFi capability, such as th
 
 There are no Meshtastic app plans to add support for Android Auto that I am aware of, in spite of repeated requests to do so. 
 
-Sadly, MeshCore currently does not have a TCP/IP stack, thus does not support WiFi, nor are their plans to add CarPlay and Android Auto support.  
+Sadly, MeshCore currently does not have a TCP/IP stack, thus does not support WiFi, which is a prerequisite to add CarPlay and Android Auto support.  
 
 NOTE: I have been unable to get Siri to dictate messages using third party CarPlay screens, such as the CarPodGo T3, since it uses the OEM voice recognition instead of Siri
 
