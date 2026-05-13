@@ -4,8 +4,11 @@ Meshtastic CarPlay and VPN Remote Access
 SUMMARY
 
 April 2026, the Meshtastic iOS app added support for CarPlay.  This allows you to use Siri to dictate and send messages to public and private channels, and direct messages. 
+
 If you have an ESP32-S3 based Meshtastic device with WiFi capability, such as the Heltec V4, connected to your home network and a self hosted VPN, you can connect the Meshtastic iOS app remotely a Meshtastic device.
+
 There are no plans to add support for Android Auto that I am aware of, in spite of repeated requests to do so. 
+
 NOTE: I have been unable to get Siri to dictate messages using third party CarPlay screens, such as the CarPodGo T3, since it uses the OEM voice recognition instead of Siri
 
 ![carplay](CarPlay.jpeg)
@@ -17,7 +20,7 @@ CARPLAY PREREQUISITES
 * Meshtastic device connected via BlueTooth
 * Meshtastic app enabled in CarPlay
 
-![app](CarPlay App.jpeg)
+![app](CarPlayApp.jpeg)
 
 REMOTE PREREQUISITES
 
