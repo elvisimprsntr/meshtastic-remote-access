@@ -11,7 +11,7 @@ There are no Meshtastic app plans to add support for Android Auto that I am awar
 
 Sadly, MeshCore currently does not have a TCP/IP stack, which is a prerequisite to add CarPlay or Android Auto, or remote access.
 
-NOTE: I have been unable to get Siri to dictate messages using third party CarPlay screens, such as the CarPodGo T3 Pro, since it uses the OEM voice recognition instead of Siri
+NOTE: I have been unable to get Siri to dictate messages using third party CarPlay screens, such as the CarpodGo T3 Pro, since it uses the OEM voice recognition instead of Siri
 
 ![carplay](CarPlay.jpeg)
 
