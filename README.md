@@ -44,7 +44,7 @@ SUGGESTED ATTIC NODE
 
 SUGGESTED FIREWALL
 
-I personally run pfSense on a x86_64 Mini-PC, which supports static IP reservations and has a native Tailscale package.  pfSense and Mini-PC are not on the FCC list of banned consumer routers.  
+I personally run pfSense on a x86_64 Mini-PC, which supports static IP reservations and has a native Tailscale package.  pfSense and Protectli Vaults are not on the FCC list of banned consumer routers.  
 
 * [New/Used Protectli Vault](https://protectli.com/product-comparison/)
 * [pfSense Open Source Enterprise Firewall Software](https://pfsense.org)
