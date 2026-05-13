@@ -49,7 +49,7 @@ I personally run pfSense on a x86_64 Mini-PC, which supports static IP reservati
 
 SUGGESTED VPN
 
-You only need a single instance of Tailscale running on or behind your firewall, if you enable advertise subnet routes.  That way you can access any IP based device on your home network remotely without opening ports on your firewall.  Tailscale has a free tier with up to 6 users, unlimited number of devices, will traverse any level of NAT, including CGNAT.
+You only need a single instance of Tailscale running on or behind your firewall, if you enable advertise subnet routes.  That way you can access any IP based device on your home network remotely without opening ports on your firewall.  Tailscale has a free tier with up to 6 users, unlimited number of devices, will traverse any level of NAT, including CGNAT. Clients for every OS distribution on earth, including Apple TV
 
 * [Tailscale MESH VPN](https://tailscale.com)
 
